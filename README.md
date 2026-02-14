@@ -112,13 +112,10 @@ Please follow Python best practices and include a brief description for any note
 
 ## License
 
-This repository does not include a license file by default. If you want to make the work reusable, add an appropriate open-source license (e.g., MIT, Apache-2.0). Otherwise, the default is all rights reserved.
+Apache License -> Version 2.0, January 2004
 
 ## Contact
 
 Created by ADVAIT135. For questions or suggestions, open an issue on GitHub or reach out via the GitHub profile: https://github.com/ADVAIT135
 
 ---
-
-Notes:
-- Tailor this README to the specific contents of your repository: update the structure, requirements, and usage instructions to match files and frameworks present.
