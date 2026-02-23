@@ -31,7 +31,6 @@ This repository is a personal collection of deep learning and machine learning p
 
 ## Repository structure
 
-A suggested layout (your repository may vary):
 
 - notebooks/          - Jupyter notebooks with tutorials and experiments
 - src/                - Project source code (training, models, utils)
