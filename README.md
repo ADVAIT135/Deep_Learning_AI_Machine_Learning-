@@ -1,6 +1,6 @@
 # Deep Learning & AI / Machine Learning
 
-This repository collects projects, experiments, and learning resources for deep learning, artificial intelligence, and machine learning. It contains notebooks, scripts, datasets (or links), model training code, and evaluation utilities intended for learning and reproducible experiments.
+This repository consists of projects, experiments, and learning resources for deep learning, artificial intelligence, and machine learning. It contains notebooks, scripts, datasets (or links), model training code, and evaluation utilities intended for learning and reproducible experiments.
 
 ## Table of Contents
 
